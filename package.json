@@ -1,5 +1,5 @@
 {
-  "name": "LibreChat",
+  "name": "REALMS",
   "version": "0.6.6",
   "description": "",
   "workspaces": [
@@ -101,6 +101,8 @@
   },
   "dependencies": {
     "chart.js": "^4.4.1",
-    "react-chartjs-2": "^5.2.0"
+    "librechat-data-provider": "^0.3.8",
+    "react-chartjs-2": "^5.2.0",
+    "react-scripts": "^3.0.1"
   }
 }
